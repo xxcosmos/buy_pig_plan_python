@@ -10,7 +10,7 @@ target = {
 }
 
 settings = {
-    "times": 100,
+    "times": 10,
     "timeout": 5,
     "driver":webdriver.Firefox(),
 }
